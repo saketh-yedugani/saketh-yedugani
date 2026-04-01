@@ -1,5 +1,5 @@
 # Hi, I'm Saketh 👋
-### Scalable Systems & AI Engineer | 3.5+ Years Experience
+### Scalable Systems & AI Engineer | 3+ Years Experience
 
 I build **high-performance backend systems, event-driven architectures, and production-grade GenAI products**. My work sits at the intersection of robust software engineering and cutting-edge AI orchestration.
 
