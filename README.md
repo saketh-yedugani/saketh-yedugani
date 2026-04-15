@@ -41,7 +41,6 @@ I build **high-performance backend systems, event-driven architectures, and prod
 ## 📫 Let’s Connect
 - 📍 **Location:** United States
 - ✉️ **Email:** saketh.yedugani@gmail.com
-- 🔗 **LinkedIn:** [linkedin.com/in/saketh-yedugani](https://www.linkedin.com/in/saketh-yedugani)
 - 🧑‍💻 **Portfolio:** [Check out my pinned repositories below! 👇]
 
 ---
